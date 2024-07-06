@@ -95,6 +95,7 @@ let package = Package(
                 .copy("Assets/styles/ocean.min.css"),
                 .copy("Assets/styles/paraiso-dark.min.css"),
                 .copy("Assets/styles/paraiso-light.min.css"),
+                .copy("Assets/styles/panda-syntax-dark.min.css"),
                 .copy("Assets/styles/pojoaque.min.css"),
                 .copy("Assets/styles/purebasic.min.css"),
                 .copy("Assets/styles/qtcreator_dark.min.css"),
