@@ -181,6 +181,8 @@
 		8CD1AE201F39171B000FDA02 /* HTMLUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD1ADCF1F39126B000FDA02 /* HTMLUtils.swift */; };
 		8CD1AE211F39171B000FDA02 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD1ADD01F39126B000FDA02 /* Theme.swift */; };
 		8CD1AE241F39172D000FDA02 /* highlight.min.js in Resources */ = {isa = PBXBuildFile; fileRef = 8CD1ADDC1F3912F2000FDA02 /* highlight.min.js */; };
+		EBC8577B2C3954BC00DE2252 /* panda-syntax-dark.min.css in Resources */ = {isa = PBXBuildFile; fileRef = EBC8577A2C3954BC00DE2252 /* panda-syntax-dark.min.css */; };
+		EBC8577C2C3954BC00DE2252 /* panda-syntax-dark.min.css in Resources */ = {isa = PBXBuildFile; fileRef = EBC8577A2C3954BC00DE2252 /* panda-syntax-dark.min.css */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -277,6 +279,7 @@
 		8CD1AE181F391713000FDA02 /* Highlightr-macOS.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Highlightr-macOS.h"; sourceTree = "<group>"; };
 		8CD1AE191F391713000FDA02 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8CD1AE261F391802000FDA02 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk/System/Library/Frameworks/AppKit.framework; sourceTree = DEVELOPER_DIR; };
+		EBC8577A2C3954BC00DE2252 /* panda-syntax-dark.min.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = "panda-syntax-dark.min.css"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -390,6 +393,7 @@
 				8CC1C6CB1F3A636B0093293D /* monokai.min.css */,
 				8CC1C6CC1F3A636B0093293D /* obsidian.min.css */,
 				8CC1C6CD1F3A636B0093293D /* ocean.min.css */,
+				EBC8577A2C3954BC00DE2252 /* panda-syntax-dark.min.css */,
 				8CC1C6CE1F3A636B0093293D /* paraiso-dark.min.css */,
 				8CC1C6CF1F3A636B0093293D /* paraiso-light.min.css */,
 				8CC1C6D01F3A636B0093293D /* pojoaque.min.css */,
@@ -590,6 +594,7 @@
 				8CC1C7091F3A636B0093293D /* atelier-plateau-light.min.css in Resources */,
 				8CC1C7411F3A636B0093293D /* hybrid.min.css in Resources */,
 				8CC1C6ED1F3A636B0093293D /* ascetic.min.css in Resources */,
+				EBC8577B2C3954BC00DE2252 /* panda-syntax-dark.min.css in Resources */,
 				8CC1C77F1F3A636B0093293D /* xcode.min.css in Resources */,
 				8CD1ADDE1F3912F2000FDA02 /* highlight.min.js in Resources */,
 				8CC1C7751F3A636B0093293D /* tomorrow-night-eighties.min.css in Resources */,
@@ -678,6 +683,7 @@
 				8CC1C70A1F3A636B0093293D /* atelier-plateau-light.min.css in Resources */,
 				8CC1C7421F3A636B0093293D /* hybrid.min.css in Resources */,
 				8CC1C6EE1F3A636B0093293D /* ascetic.min.css in Resources */,
+				EBC8577C2C3954BC00DE2252 /* panda-syntax-dark.min.css in Resources */,
 				8CC1C7801F3A636B0093293D /* xcode.min.css in Resources */,
 				8CD1AE241F39172D000FDA02 /* highlight.min.js in Resources */,
 				8CC1C7761F3A636B0093293D /* tomorrow-night-eighties.min.css in Resources */,
